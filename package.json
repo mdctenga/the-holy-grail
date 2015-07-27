@@ -1,0 +1,19 @@
+{
+  "name": "the-holy-grail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mdctenga/the-holy-grail.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdctenga/the-holy-grail/issues"
+  },
+  "homepage": "https://github.com/mdctenga/the-holy-grail"
+}
